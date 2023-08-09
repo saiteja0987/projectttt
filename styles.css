@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Borel&family=Handjet:wght@200;300&display=swap');
+
+ *{
+     margin: 20;
+     padding:30;
+ }
+
+ body{
+font-family: 'Borel', cursive;
+background-color: darkgreen;
+
+ }
+ u, h2{color: blue;}
+ h3{color: burlywood;}
+
+ img{height: 100; width: 100;}
+p{padding:5}
+
+
